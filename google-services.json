@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172727520779",
+    "firebase_url": "https://smart-mirror-4db3b.firebaseio.com",
+    "project_id": "smart-mirror-4db3b",
+    "storage_bucket": "smart-mirror-4db3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172727520779:android:4e71e581fca0e3a7ca410e",
+        "android_client_info": {
+          "package_name": "com.nb3.smartcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172727520779-o9t5tfnr7466go2dg6co8ps0sqhej76b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhCKkkVgHdn9ckDqncT3_Jf0W6gnwF_90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172727520779-o9t5tfnr7466go2dg6co8ps0sqhej76b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
